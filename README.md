@@ -1,6 +1,6 @@
 # Deploying a Web Application over Kubernetes
 
-## Application deployment is a delivery mechanism, which allows the user to access an application. Kubernetes is an open-source platform that lets us deploy and manage containerized applications.
+Application deployment is a delivery mechanism, which allows the user to access an application. Kubernetes is an open-source platform that lets us deploy and manage containerized applications.
 
 ## Steps
 
